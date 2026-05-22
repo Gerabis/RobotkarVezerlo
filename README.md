@@ -59,7 +59,7 @@ A projekt tökéletesen imitálja egy robotkar működésének alapjait.
 
 [TinkerCad Projekt Link](https://www.tinkercad.com/things/8mAN66CU1QG-ipari-robotkar-vezerlorendszer)
 
-![KapcsolasiRajz](Kapcsolas.pdf)
+![Kapcsolási Rajz](Kapcsolas.pdf)
 
   
 <details>
